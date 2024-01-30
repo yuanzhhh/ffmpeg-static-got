@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-static-got",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ffmpeg static binaries for Mac OSX and Linux and Windows",
   "main": "index.js",
   "scripts": {
